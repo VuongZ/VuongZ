@@ -6,6 +6,7 @@
   <p>
     <a href="https://github.com/VuongZ"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" /></a>
     <a href="mailto:huyvuongkl@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+    <a href="https://www.facebook.com/vuong.dang.198803/"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&amp;logo=facebook&amp;logoColor=1877F2" alt="Facebook của Đặng Huy Vương" /></a>
   </p>
 </div>
 

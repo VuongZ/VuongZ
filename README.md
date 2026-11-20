@@ -11,21 +11,6 @@
 
 ---
 
-### ⚡ Developer Profile
-
-I build REST APIs with C# and ASP.NET Core. In my canteen management project, I connected QR check-ins with shift records and payroll. During my ERP internship, I worked on how modules handle requests and query data using CQRS, MediatR, and Entity Framework Core.
-
-```csharp
-namespace VuongZ.Profile;
-
-public sealed record DeveloperProfile
-{
-    public string Name     => "Đặng Huy Vương";
-    public string Role     => "Backend Developer";
-    public string Location => "Ho Chi Minh City, Vietnam";
-    public string Focus    => "API design and backend development with .NET";
-}
-```
 
 ### 🛠️ Tech Stack
 
